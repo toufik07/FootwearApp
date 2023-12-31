@@ -47,7 +47,7 @@ function Header() {
 						</form>
 					</div>
 				</nav>
-				{/* </div> */}
+			
 				<div className="sale">
 					<div className="container">
 						<div className="row">
@@ -56,7 +56,7 @@ function Header() {
 									<div className="owl-carousel2">
 										<div className="item">
 											<div className="col">
-												<h3><a href="#" className="link-styles">25% off (Almost) Everything! Use Code: Summer Sale</a></h3>
+												<h6>25% off (Almost) Everything! Use Code: Summer Sale</h6>
 											</div>
 										</div>
 									</div>

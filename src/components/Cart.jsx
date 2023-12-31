@@ -77,11 +77,6 @@ export default function Cart() {
 									<span class="price">$120.00</span>
 								</div>
 							</div>
-							<div class="one-eight text-center">
-								<div class="display-tc">
-									<a href="#" class="closed"></a>
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>

@@ -1,9 +1,8 @@
-import React, { useEffect, useState } from 'react'
+
 import './Admin.css'
-import { Route, useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 import Sidebar from './Sidebar';
 import Dashboard from './Dashboard';
-import { Routes } from 'react-router-dom';
 
 
 export default function Admin() {

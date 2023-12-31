@@ -22,8 +22,6 @@ export default function About() {
               <div className="video colorlib-video" style={{
                 backgroundImage: "url(images/about.jpg)"
               }}>
-                <a href="https://vimeo.com/channels/staffpicks/93951774" className="popup-vimeo"><i className="icon-play3"></i></a>
-                <div className="overlay"></div>
               </div>
             </div>
             <div className="col-sm-6">

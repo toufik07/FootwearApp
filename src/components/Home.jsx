@@ -11,13 +11,13 @@ export default function Home() {
 				</div>
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img src={require("../images/img_bg_1.jpg")} class="d-block w-100" alt="..." />
+						<img src={require("../images/img_bg_1.jpg")} class="d-block w-100"  />
 					</div>
 					<div class="carousel-item">
-						<img src={require("../images/img_bg_2.jpg")} class="d-block w-100" alt="..." />
+						<img src={require("../images/img_bg_2.jpg")} class="d-block w-100"  />
 					</div>
 					<div class="carousel-item">
-						<img src={require("../images/img_bg_3.jpg")} class="d-block w-100" alt="..." />
+						<img src={require("../images/img_bg_3.jpg")} class="d-block w-100"  />
 					</div>
 				</div>
 				<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -43,17 +43,17 @@ export default function Home() {
 					<div className="row">
 						<div className="col-sm-6 text-center">
 							<div className="featured">
-								<a href="#" className="featured-img" style={{ backgroundImage: "url('../images/men.jpg')" }}></a>
+								<a  className="featured-img" style={{ backgroundImage: "url('../images/men.jpg')" }}></a>
 								<div className="desc">
-									<h2><a href="#">Shop Men's Collection</a></h2>
+									<h2><a >Shop Men's Collection</a></h2>
 								</div>
 							</div>
 						</div>
 						<div className="col-sm-6 text-center">
 							<div className="featured">
-								<a href="#" className="featured-img" style={{ backgroundImage: "url('../images/women.jpg')" }}></a>
+								<a  className="featured-img" style={{ backgroundImage: "url('../images/women.jpg')" }}></a>
 								<div className="desc">
-									<h2><a href="#">Shop Women's Collection</a></h2>
+									<h2><a >Shop Women's Collection</a></h2>
 								</div>
 							</div>
 						</div>
@@ -71,44 +71,44 @@ export default function Home() {
 					<div className="row row-pb-md">
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-1.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-2.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Minam Meaghan</a></h2>
+									<h2><a >Women's Minam Meaghan</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-3.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Men's Taja Commissioner</a></h2>
+									<h2><a >Men's Taja Commissioner</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-4.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Russ Men's Sneakers</a></h2>
+									<h2><a >Russ Men's Sneakers</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
@@ -116,44 +116,44 @@ export default function Home() {
 						<div className="w-100"></div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-5.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-6.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-7.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-8.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
@@ -161,44 +161,44 @@ export default function Home() {
 						<div className="w-100"></div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-9.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-10.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-11.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-12.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
@@ -206,44 +206,44 @@ export default function Home() {
 						<div className="w-100"></div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-13.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-14.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-15.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
 						</div>
 						<div className="col-lg-3 mb-4 text-center">
 							<div className="product-entry border">
-								<a href="#" className="prod-img">
+								<a  className="prod-img">
 									<img src={require("../images/item-16.jpg")} className="img-fluid" alt="Free html5 bootstrap 4 template" />
 								</a>
 								<div className="desc">
-									<h2><a href="#">Women's Boots Shoes Maca</a></h2>
+									<h2><a >Women's Boots Shoes Maca</a></h2>
 									<span className="price">$139.00</span>
 								</div>
 							</div>
@@ -251,7 +251,7 @@ export default function Home() {
 					</div>
 					<div className="row">
 						<div className="col-md-12 text-center">
-							<p><a href="#" className="btn btn-primary btn-lg">Shop All Products</a></p>
+							<p><a  className="btn btn-primary btn-lg">Shop All Products</a></p>
 						</div>
 					</div>
 				</div>

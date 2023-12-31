@@ -23,7 +23,7 @@ export default function Women() {
 							<h2>Women's</h2>
 						</div>
 						<div class="menu text-center">
-							<p><a href="#">New Arrivals</a> <a href="#">Best Sellers</a> <a href="#">Extended Widths</a> <a href="#">Sale</a></p>
+							<p><a >New Arrivals</a> <a >Best Sellers</a> <a >Extended Widths</a> <a >Sale</a></p>
 						</div>
 					</div>
 				</div>
@@ -40,7 +40,7 @@ export default function Women() {
                 backgroundImage: "url(images/img_bg_2.jpg)"
               }}>
 								<h2>Casuals</h2>
-								<p><a href="#" class="btn btn-primary btn-lg">Shop now</a></p>
+								<p><a  class="btn btn-primary btn-lg">Shop now</a></p>
 							</div>
 						</div>
 					</div>
@@ -50,7 +50,7 @@ export default function Women() {
                 backgroundImage: "url(images/women.jpg)"
               }}>
 								<h2>Dress</h2>
-								<p><a href="#" class="btn btn-primary btn-lg">Shop now</a></p>
+								<p><a  class="btn btn-primary btn-lg">Shop now</a></p>
 							</div>
 						</div>
 					</div>
@@ -60,7 +60,7 @@ export default function Women() {
                 backgroundImage: "url(images/item-11.jpg)"
               }}>
 								<h2>Sports</h2>
-								<p><a href="#" class="btn btn-primary btn-lg">Shop now</a></p>
+								<p><a  class="btn btn-primary btn-lg">Shop now</a></p>
 							</div>
 						</div>
 					</div>

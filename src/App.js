@@ -1,5 +1,4 @@
 
-// impwhxort './App.css';
 import Header from './components/Header';
 import Women from './components/Women';
 import Contact from './components/Contact';
@@ -17,7 +16,6 @@ import Sidebar from './components/admin/Sidebar';
 import Products from './components/admin/Products';
 import AddProducts from './components/admin/AddProducts';
 import Allproducts from './components/Allproducts';
-import User from './components/user/User';
 
 function App() {
   return (
